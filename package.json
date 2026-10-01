@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethikolla621/nodejs-cicd-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/preethikolla621/nodejs-cicd-pipeline/issues"
+  },
+  "homepage": "https://github.com/preethikolla621/nodejs-cicd-pipeline#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
